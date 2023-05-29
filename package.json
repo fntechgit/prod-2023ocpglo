@@ -1,8 +1,8 @@
 {
-  "name": "fnevent-tier1-default-theme",
+  "name": "prod-2023ocpglo",
   "version": "1.0.0",
   "private": true,
-  "description": "Tier 1 Default fnEvent theme",
+  "description": "OCP 2023 global fnEvent theme",
   "author": "FNTech",
   "keywords": [
     "gatsby"
