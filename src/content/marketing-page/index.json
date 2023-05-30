@@ -16,13 +16,7 @@
     },
     "images": [
       {
-        "src": "tier1-default-header1.png"
-      },
-      {
-        "src": "tier1-default-header2.png"
-      },
-      {
-        "src": "tier1-default-header3.png"
+        "src": "ocpglo23-fnv-marketing-header1_placeholder.png"
       }
     ]
   },
@@ -32,26 +26,27 @@
   },
   "leftColumn": {
     "schedule": {
-      "display": true,
-      "title": "Full Event Schedule"
+      "display": false,
+      "title": ""
     },
     "disqus": {
       "title": "Join the Conversation"
     },
     "image": {
-      "title": "Image"
+      "title": "",
+      "display": true,
+      "image": {
+        "src": "ocpglo23-fnv-hlschedule-052523.png"
+      }
     }
   },
   "masonry": [
     {
       "placement": "Top Left",
-      "size": 2,
+      "size": 1,
       "images": [
         {
-          "src": "tier1-default-space3.png"
-        },
-        {
-          "src": "tier1-default-space4.png"
+          "src": "ocpglo23-fnv-marketing-space1_placeholder.png"
         }
       ]
     },
@@ -60,7 +55,7 @@
       "size": 1,
       "images": [
         {
-          "src": "tier1-default-space1.png"
+          "src": "ocpglo23-fnv-marketing-space2_placeholder.png"
         }
       ]
     },
@@ -69,7 +64,7 @@
       "size": 1,
       "images": [
         {
-          "src": "tier1-default-space2.png"
+          "src": "ocpglo23-fnv-marketing-space3_placeholder.png"
         }
       ]
     },
@@ -78,7 +73,7 @@
       "size": 2,
       "images": [
         {
-          "src": "tier1-default-space4.png"
+          "src": "ocpglo23-fnv-marketing-space4_placeholder.png"
         }
       ]
     }
