@@ -1,9 +1,9 @@
 {
   "hero": {
-    "title": "TIER 1 - EVENT NAME HERE",
-    "date": "Date Information",
-    "dateLayout": true,
-    "time": "Timezone",
+    "title": "2023 OCP Global Summit",
+    "date": "October 17–19",
+    "dateLayout": false,
+    "time": "",
     "buttons": {
       "registerButton": {
         "text": "Register Now",
