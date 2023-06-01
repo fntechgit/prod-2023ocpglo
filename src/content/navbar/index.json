@@ -11,6 +11,16 @@
       "display": true
     },
     {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "REGISTRATION",
+      "link": "/registration",
+      "display": true
+    },
+    {
       "title": "SCHEDULE",
       "link": "/a/schedule",
       "display": true,
@@ -27,6 +37,36 @@
       "pageRestriction": [
         "ANY"
       ]
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "TRAVEL",
+      "link": "/travel",
+      "display": true
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "CONTACT",
+      "link": "/contact",
+      "display": true
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "FAQ",
+      "link": "/faq",
+      "display": true
     },
     {
       "title": "MY ORDERS/TICKETS",
