@@ -18,7 +18,10 @@
       {
         "src": "ocpglo23-fnv-marketing-header1_053123.png"
       }
-    ]
+    ],
+    "background": {
+      "src": "ocpglo23-fnv-marketing-header1-left.png"
+    }
   },
   "countdown": {
     "display": true,
