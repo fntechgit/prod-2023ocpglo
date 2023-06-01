@@ -25,5 +25,5 @@ A request to cancel your ticket must be emailed to [registration@opencompute.org
 
 **How to find your orders/tickets:**
 
-1. Navigate to the Global Summit [event site](https://2023ocpglobal.fnvirtual.app)
+1. Navigate to the Global Summit [event site.](https://2023ocpglobal.fnvirtual.app)
 2. Click the “Log in” button. Use the same authentication process you used above. Once you have been authenticated, a new link called “My Orders/Tickets” will appear in the green top nav bar. Click this link to see your order/tickets for this event.
