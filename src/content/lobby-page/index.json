@@ -2,7 +2,7 @@
   "centerColumn": {
     "speakers": {
       "showTodaySpeakers": true,
-      "showFeatureSpeakers": true
+      "showFeatureSpeakers": false
     }
   },
   "hero": {
