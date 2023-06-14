@@ -40,5 +40,8 @@
     "favicon180": "ocpglo23-fnv-favicon-180_placeholder.png",
     "favicon32": "ocpglo23-fnv-favicon-32_placeholder.png",
     "favicon16": "ocpglo23-fnv-favicon-16_placeholder.png"
+  },
+  "siteMetadata": {
+    "title": "2023 OCP Global Summit"
   }
 }
