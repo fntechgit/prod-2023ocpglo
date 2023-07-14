@@ -16,11 +16,11 @@
     },
     "images": [
       {
-        "src": "ocpglo23-fnv-marketing-header1_053123.png"
+        "src": "ocpglo23-fnv-marketing-header.png"
       }
     ],
     "background": {
-      "src": "ocpglo23-fnv-marketing-header1-left.png"
+      "src": "ocpglo23-fnv-marketing-header-left.png"
     }
   },
   "countdown": {
@@ -49,7 +49,7 @@
       "size": 1,
       "images": [
         {
-          "src": "ocpglo23-fnv-marketing-space1_053123.png",
+          "src": "ocpglo23-fnv-marketing-space1.png",
           "link": "https://www.opencompute.org/summit/global-summit"
         }
       ]
@@ -59,7 +59,7 @@
       "size": 1,
       "images": [
         {
-          "src": "ocpglo23-fnv-marketing-space2-053123-v2.png",
+          "src": "ocpglo23-fnv-marketing-space2.png",
           "link": "https://www.opencompute.org/membership/how-to-join"
         }
       ]
@@ -69,8 +69,8 @@
       "size": 1,
       "images": [
         {
-          "src": "ocpglo23-fnv-marketing-space3_053123.png",
-          "link": "https://www.opencompute.org/events/past-events/2023-ocp-regional-summit"
+          "src": "ocpglo23-fnv-marketing-space3.png",
+          "link": ""
         }
       ]
     },
@@ -79,7 +79,8 @@
       "size": 2,
       "images": [
         {
-          "src": "ocpglo23-fnv-marketing-space4_053123.png"
+          "src": "ocpglo23-fnv-marketing-space4.png",
+          "link": "https://www.opencompute.org/summit/global-summit/sponsorship"
         }
       ]
     }
