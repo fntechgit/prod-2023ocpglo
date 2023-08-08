@@ -1949,10 +1949,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@^1.0.40":
-  version "1.0.40"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-1.0.40.tgz#c53f879a80dafc2022fec4c7e5990295fe152b3c"
-  integrity sha512-OzA9XDV53xAI/6vLa+55cGITev5pkL6qP23ScFOt7pCgysHfAt8R4Aul13XLz/eVN3PuosKBX41drE4y6u+WPA==
+"@openeventkit/event-site@^1.0.44":
+  version "1.0.44"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-1.0.44.tgz#f82266c641545f60ee63f05adcb0956d428e1395"
+  integrity sha512-BSDtJqdADgj8/TGIQnkdLetUzGEQ8cE2pU2EYv4OKcdzwjJ98SNFrKuwqEHrZ0W8MGRzNv/eGGoLyP4w9UmQvw==
   dependencies:
     "@mui/base" "^5.0.0-alpha.114"
     "@ncwidgets/file-relation" "^0.8.0"
@@ -2025,7 +2025,7 @@
     netlify-cms-app "^2.15.72"
     netlify-cms-lib-widgets "^1.8.0"
     node-sass-utils "^1.1.3"
-    openstack-uicore-foundation "^4.1.30"
+    openstack-uicore-foundation "^4.1.39"
     path-browserify "^1.0.1"
     prop-types "^15.6.0"
     react "^18.2.0"
@@ -2057,7 +2057,7 @@
     redux-thunk "^2.4.1"
     sanitize-html "^2.7.0"
     sass "^1.49.9"
-    schedule-filter-widget "^2.0.3"
+    schedule-filter-widget "^2.0.6"
     simple-chat-widget "^1.0.31"
     simple-oauth2 "^4.1.0"
     slick-carousel "^1.8.1"
@@ -12314,10 +12314,10 @@ open@^8.4.0:
     is-docker "^2.1.1"
     is-wsl "^2.2.0"
 
-openstack-uicore-foundation@^4.1.30:
-  version "4.1.30"
-  resolved "https://registry.yarnpkg.com/openstack-uicore-foundation/-/openstack-uicore-foundation-4.1.30.tgz#0d2d39930a2425848a98af7978dbe79ee4bdcb9e"
-  integrity sha512-VhPRay8+c3MYuhj3eWmgB6ghBUuJALHHvM3u90Q2zHUj8VA4pBtugoLp5InlySnGIyRvR79LXby2cLiaEIDqgQ==
+openstack-uicore-foundation@^4.1.39:
+  version "4.1.39"
+  resolved "https://registry.yarnpkg.com/openstack-uicore-foundation/-/openstack-uicore-foundation-4.1.39.tgz#3459f4a6b8bf5513a4eda1d0341c0a24b05635cc"
+  integrity sha512-sf0TQ1WLcxUIdnn/+U3yVfsOmvknIQbbSlcUsZC4T5xkrBqCAYopdIK6IfrYls3aSQ+ebUo1TCC8CVyvN0HRpw==
 
 opentracing@^0.14.7:
   version "0.14.7"
@@ -15126,10 +15126,10 @@ saxes@^5.0.1:
   dependencies:
     xmlchars "^2.2.0"
 
-schedule-filter-widget@^2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/schedule-filter-widget/-/schedule-filter-widget-2.0.3.tgz#b25dd6c8ad2b7d02921846842ebeb01545e2e6cd"
-  integrity sha512-IqjxAU+5ECVxMvNBpPOZEK136YD8S/oDEhPcMfZiU/Mz/lmU/H8gSrPV/FmAs1YrmdGb62MDA1/q8BgcvHeMPg==
+schedule-filter-widget@^2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/schedule-filter-widget/-/schedule-filter-widget-2.0.6.tgz#36b5b6015877e4b8bf66ba55d5e77e5df142fa5b"
+  integrity sha512-Ynff8kXcxEFzZdwPCtLOHFLtf529gT4j5MO22SP1MEvCyl9CVILdyIgndGv3y5tnXPnEMDPSVVvi8HGFXwW9+g==
   dependencies:
     react-spring "^9.1.2"
     react-use "^17.2.4"
