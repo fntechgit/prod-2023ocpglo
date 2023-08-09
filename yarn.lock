@@ -1949,10 +1949,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.0.9":
-  version "2.0.9"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.9.tgz#d0818e51e38abd12738f81b78a00a2bdf7c86548"
-  integrity sha512-yE14WZHjjUUOZ7B0v35Q3K0k1b34x8MWJLOGHkqtAjBOXVSGX5f3zNpB0WYEs38sl00gThYG/BEOponYHBjMqQ==
+"@openeventkit/event-site@2.0.11":
+  version "2.0.11"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.11.tgz#ed01984df5ab4205efa0a736db079b3d3f1ab2c2"
+  integrity sha512-w/Jz75J0RYCLazuV/EW1AoE8XrnOhTEO6T0lOrwK04ZT72oObclWkGlr3Wm02nPH+DmtH2nejfDgjr9zNgzPNg==
   dependencies:
     "@mui/base" "^5.0.0-alpha.114"
     "@ncwidgets/file-relation" "^0.8.0"
@@ -2015,8 +2015,8 @@
     immutability-helper "2.9.1"
     immutable "^3.7.6"
     jsdom "^16.2.2"
-    lite-schedule-widget "^2.0.1"
-    live-event-widget "^3.0.0"
+    lite-schedule-widget "3.0.1"
+    live-event-widget "4.0.0"
     lodash "^4.17.19"
     lz-string "^1.4.4"
     markdown-it "^12.0.0"
@@ -10546,18 +10546,18 @@ linkifyjs@^2.1.9:
   resolved "https://registry.yarnpkg.com/linkifyjs/-/linkifyjs-2.1.9.tgz#af06e45a2866ff06c4766582590d098a4d584702"
   integrity sha512-74ivurkK6WHvHFozVaGtQWV38FzBwSTGNmJolEgFp7QgR2bl6ArUWlvT4GcHKbPe1z3nWYi+VUdDZk16zDOVug==
 
-lite-schedule-widget@^2.0.1:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/lite-schedule-widget/-/lite-schedule-widget-2.0.2.tgz#408cf95a2e6328318dd2ecebbd2a54929d92576b"
-  integrity sha512-nhyO1a/cKiXknYz3k4zjqZLvk4tW8b7G/eWOLlz9ocY85xN/ZTWOorDS6eYSWD/boxG+uNIYMCAIDNLvNrV9Eg==
+lite-schedule-widget@3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/lite-schedule-widget/-/lite-schedule-widget-3.0.1.tgz#b3cb583d62fc00e253d87b432e767cf68348fb84"
+  integrity sha512-JjpE5c84lVrwJ91myz4Go0JxyVTOpkte5Un7t/qIAX5oZ3ONoSg6HTIp+HSnQ5+pbyxElYCogOPlrcHyDHUDLQ==
   dependencies:
     pure-react-carousel "^1.27.4"
     use-fit-text "^2.4.0"
 
-live-event-widget@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/live-event-widget/-/live-event-widget-3.0.0.tgz#905d841571dd7ac8d93a31e5a0f6c1894a1d7d34"
-  integrity sha512-c4vRQxiaF4GdP10xDDkiM4skPn3cQJTrIQptjzmGgymgOf1rtUcAiye6cqJg0BfMabmntbuFHPCgHyAB+Q2djw==
+live-event-widget@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/live-event-widget/-/live-event-widget-4.0.0.tgz#c89909273bd0ae176aa705cc10211b8803dc87df"
+  integrity sha512-0nR3b2KJmozgSy1SYAb05VTMAJwkHerxKReATB3GHOSAXXWGMH8t+ymbWZ3SYXz/SfcpSJR5Y1llSG/KX2lKpw==
   dependencies:
     svg-url-loader "^7.1.1"
 
