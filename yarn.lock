@@ -1949,10 +1949,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@^1.0.44":
-  version "1.0.44"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-1.0.44.tgz#f82266c641545f60ee63f05adcb0956d428e1395"
-  integrity sha512-BSDtJqdADgj8/TGIQnkdLetUzGEQ8cE2pU2EYv4OKcdzwjJ98SNFrKuwqEHrZ0W8MGRzNv/eGGoLyP4w9UmQvw==
+"@openeventkit/event-site@2.0.9":
+  version "2.0.9"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.9.tgz#d0818e51e38abd12738f81b78a00a2bdf7c86548"
+  integrity sha512-yE14WZHjjUUOZ7B0v35Q3K0k1b34x8MWJLOGHkqtAjBOXVSGX5f3zNpB0WYEs38sl00gThYG/BEOponYHBjMqQ==
   dependencies:
     "@mui/base" "^5.0.0-alpha.114"
     "@ncwidgets/file-relation" "^0.8.0"
@@ -1987,12 +1987,12 @@
     disqus-react "1.0.10"
     dotenv "^8.2.0"
     dropzone "^5.7.2"
-    event-feedback-widget "^1.0.6"
+    event-feedback-widget "^2.0.1"
     final-form "4.20.7"
     font-awesome "^4.7.0"
     formik "^2.2.9"
     fs-extra "^9.0.1"
-    full-schedule-widget "^2.0.35"
+    full-schedule-widget "3.0.0"
     gatsby "^5.8.1"
     gatsby-alias-imports "^1.0.6"
     gatsby-plugin-image "^3.8.0"
@@ -2057,7 +2057,7 @@
     redux-thunk "^2.4.1"
     sanitize-html "^2.7.0"
     sass "^1.49.9"
-    schedule-filter-widget "^2.0.6"
+    schedule-filter-widget "3.0.0"
     simple-chat-widget "^1.0.31"
     simple-oauth2 "^4.1.0"
     slick-carousel "^1.8.1"
@@ -2070,7 +2070,7 @@
     summit-registration-lite "^4.0.17"
     superagent "8.0.9"
     sweetalert2 "^9.17.0"
-    upcoming-events-widget "2.0.8"
+    upcoming-events-widget "3.0.1"
     urijs "^1.19.2"
     use-fit-text "^2.4.0"
     uuid "^7.0.0"
@@ -7082,10 +7082,10 @@ event-emitter@^0.3.5:
     d "1"
     es5-ext "~0.10.14"
 
-event-feedback-widget@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/event-feedback-widget/-/event-feedback-widget-1.0.6.tgz#f60f02f2b783f891d71a6a0600a18248e2c5c64e"
-  integrity sha512-abBkFwgdWJoQJgpaYFA9Qhi+pjt+zSYsi1F5+LYD6WeHnP+7Jp0DzcZrrmYIN/CWKOJNj4vs9uVUxayO9s/xTw==
+event-feedback-widget@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/event-feedback-widget/-/event-feedback-widget-2.0.1.tgz#0c00740d290f8a6225370b3867187728271dd8ef"
+  integrity sha512-INjptM0sxAgtn8hZYC0MoN0HZzcUEG99CVm8NUkmkLxb8oi7IrmZ0pVn/UXoeHPPpGC1KnNlEK++ls4USUzIqg==
   dependencies:
     svg-url-loader "^7.1.1"
 
@@ -7694,10 +7694,10 @@ fsevents@~2.3.2:
   resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
   integrity sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==
 
-full-schedule-widget@^2.0.35:
-  version "2.0.35"
-  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-2.0.35.tgz#3e7475d467ca76e77a995508e638fa80d5609046"
-  integrity sha512-NLQYjcV5s8F+64tvWW+dO1DN6TAWZf2ar1PwJJ1d3eOOv8WfJmJIHktTTN3st4NFuCXxdV/PVlqG3cYjnR0S6Q==
+full-schedule-widget@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-3.0.0.tgz#5f814c2f51aa0a60e01e0f51a9899f4963f49b04"
+  integrity sha512-EVBf5wacQl5n6KqZqLojLbcfDfRWtP4MSmudvd+hJj8BUcrSJHpc1o3r/7ja6Fl47j/VS3w1/Kdju6C1sSFX8Q==
   dependencies:
     "@mui/base" "5.0.0-alpha.127"
     "@react-pdf/renderer" "^3.1.11"
@@ -15126,10 +15126,10 @@ saxes@^5.0.1:
   dependencies:
     xmlchars "^2.2.0"
 
-schedule-filter-widget@^2.0.6:
-  version "2.0.6"
-  resolved "https://registry.yarnpkg.com/schedule-filter-widget/-/schedule-filter-widget-2.0.6.tgz#36b5b6015877e4b8bf66ba55d5e77e5df142fa5b"
-  integrity sha512-Ynff8kXcxEFzZdwPCtLOHFLtf529gT4j5MO22SP1MEvCyl9CVILdyIgndGv3y5tnXPnEMDPSVVvi8HGFXwW9+g==
+schedule-filter-widget@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/schedule-filter-widget/-/schedule-filter-widget-3.0.0.tgz#b02bce8a26731487716215ae8bcbc6c0fba69f8e"
+  integrity sha512-BCcF53CXTYGpvwpHJxHZjtguqFrqDmLLxOiasgb6P4SZBVU5eI+hdsrMnozhsO4PKmsLAfKDQjzXJ29wXNRxFg==
   dependencies:
     react-spring "^9.1.2"
     react-use "^17.2.4"
@@ -17033,10 +17033,10 @@ unpipe@1.0.0, unpipe@~1.0.0:
   resolved "https://registry.yarnpkg.com/unpipe/-/unpipe-1.0.0.tgz#b2bf4ee8514aae6165b4817829d21b2ef49904ec"
   integrity sha512-pjy2bYhSsufwWlKwPc+l3cN7+wuJlK6uz0YdJEOlQDbl6jo/YlPi4mb8agUkVC8BF7V8NuzeyPNqRksA3hztKQ==
 
-upcoming-events-widget@2.0.8:
-  version "2.0.8"
-  resolved "https://registry.yarnpkg.com/upcoming-events-widget/-/upcoming-events-widget-2.0.8.tgz#46aa4e29afd8c9b61e28bf0449fee16f3e63015f"
-  integrity sha512-FrTbU8113dM5AUDPrUjyPw9ZRKgglYioWhTToftIOSMHxMfgQkg1WIKBwRs6ptJVOct5FibQ/VIgisGn7jBoZw==
+upcoming-events-widget@3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/upcoming-events-widget/-/upcoming-events-widget-3.0.1.tgz#d8d27ab40c619de1d2e949038273554dfcdbeb79"
+  integrity sha512-9RJVwRMOK7OXdvi/4qHZddKXKDpuNVw5EGiySfqJnkSXEFUMrRvXWkndlLli3b2puW5K2lzyfncdggGjsFw0nw==
   dependencies:
     pure-react-carousel "^1.30.1"
 
