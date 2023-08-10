@@ -1949,10 +1949,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.0.13":
-  version "2.0.13"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.13.tgz#dffd5d352dd94166bbc5ec40e9ce45b1f5fa43b6"
-  integrity sha512-RBHnOWHapmut+N76i1q1U2i4DjMBX5B6u/eBH6v+OhULEkn0nhfemBWt0tjpUg6Mr4HW5p3fmpJfOaiE2pvIHw==
+"@openeventkit/event-site@2.0.14":
+  version "2.0.14"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.14.tgz#341cdac46e9c55fbca4aad2452c0c94dfbf01495"
+  integrity sha512-GZt/hm+aerNAIzE2rmtSMpf22mUMSdygzpxUvo0LsP/AcsR9nZnB/35BrgAYYjTO6R6Q8lXAC8/mhwDXiqyQmw==
   dependencies:
     "@mui/base" "^5.0.0-alpha.114"
     "@ncwidgets/file-relation" "^0.8.0"
@@ -1971,7 +1971,7 @@
     "@types/react" "^16.9.42"
     "@vimeo/player" "^2.16.3"
     ably "^1.2.34"
-    attendee-to-attendee-widget "2.0.23"
+    attendee-to-attendee-widget "3.0.0"
     awesome-bootstrap-checkbox "^1.0.1"
     axios "^0.19.2"
     babel-preset-gatsby "^3.9.0"
@@ -4312,17 +4312,16 @@ atob@^2.1.2:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-attendee-to-attendee-widget@2.0.23:
-  version "2.0.23"
-  resolved "https://registry.yarnpkg.com/attendee-to-attendee-widget/-/attendee-to-attendee-widget-2.0.23.tgz#1cd3307e21ca498b811551e4bb8ad60a775d8dbe"
-  integrity sha512-Q/vgWgNNmRpsuHMPzYKgpEpF1B3flrW70QMZzFMRa2fajFe5QDcgbUsccTOfJhcSdoq7MoJUz3EqVV0F5S+2ng==
+attendee-to-attendee-widget@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/attendee-to-attendee-widget/-/attendee-to-attendee-widget-3.0.0.tgz#55c489a6ae086c2ae5c5cceb854182e906535679"
+  integrity sha512-6zoxJeL4WH4VHGwZWvY//PJ1I9PNgfdatyT8cwaMHB0WZgwLnObVTrJw8dD9/Cy1I3VyLWu8+5EG5yBAGVO1dw==
   dependencies:
     "@babel/helper-string-parser" "^7.19.4"
     "@supabase/supabase-js" "^1.35.6"
     bulma "^0.9.2"
     font-awesome "^4.7.0"
     formik "^2.2.6"
-    html-entities "^2.3.3"
     lodash.debounce "^4.0.8"
     luxon "^1.26.0"
     public-ip "^4.0.3"
