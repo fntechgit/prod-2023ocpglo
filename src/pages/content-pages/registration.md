@@ -9,7 +9,7 @@ The 2023 OCP Global Summit will be an in-person event. All sessions will be reco
 
 ### **Registration Options**
 
-Early Bird: $700 (June 1–July 31)\
+<s>Early Bird: $700 (June 1–July 31)</s>\
 General: $900 (August 1–October 15)\
 On-site: $1,200 (October 16–19)
 
