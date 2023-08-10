@@ -1949,10 +1949,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.0.12":
-  version "2.0.12"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.12.tgz#484769276d37691d6c4250c6ce50f7836b045f1b"
-  integrity sha512-pMVnAiDb3bde70R2UBfN6TkLdnFY0f8Av/tf1fph3QxHRvntp8u+IIScBhFgqmkwBhBgr5QtUKPbjkqV5Jcgxw==
+"@openeventkit/event-site@2.0.13":
+  version "2.0.13"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.13.tgz#dffd5d352dd94166bbc5ec40e9ce45b1f5fa43b6"
+  integrity sha512-RBHnOWHapmut+N76i1q1U2i4DjMBX5B6u/eBH6v+OhULEkn0nhfemBWt0tjpUg6Mr4HW5p3fmpJfOaiE2pvIHw==
   dependencies:
     "@mui/base" "^5.0.0-alpha.114"
     "@ncwidgets/file-relation" "^0.8.0"
@@ -2025,7 +2025,7 @@
     netlify-cms-app "^2.15.72"
     netlify-cms-lib-widgets "^1.8.0"
     node-sass-utils "^1.1.3"
-    openstack-uicore-foundation "^4.1.39"
+    openstack-uicore-foundation "^4.1.40"
     path-browserify "^1.0.1"
     prop-types "^15.6.0"
     react "^18.2.0"
@@ -12314,10 +12314,10 @@ open@^8.4.0:
     is-docker "^2.1.1"
     is-wsl "^2.2.0"
 
-openstack-uicore-foundation@^4.1.39:
-  version "4.1.39"
-  resolved "https://registry.yarnpkg.com/openstack-uicore-foundation/-/openstack-uicore-foundation-4.1.39.tgz#3459f4a6b8bf5513a4eda1d0341c0a24b05635cc"
-  integrity sha512-sf0TQ1WLcxUIdnn/+U3yVfsOmvknIQbbSlcUsZC4T5xkrBqCAYopdIK6IfrYls3aSQ+ebUo1TCC8CVyvN0HRpw==
+openstack-uicore-foundation@^4.1.40:
+  version "4.1.40"
+  resolved "https://registry.yarnpkg.com/openstack-uicore-foundation/-/openstack-uicore-foundation-4.1.40.tgz#5ad0f61d99a57c23dd25310b8a3dbac975f306f6"
+  integrity sha512-D3LV/fICPU8Ju/w43Ppc/dy4ICkZk6i5xS733CkM0n7m5MCgSJwVU3Js+D2fYFSLzmG5MkT0Uqrh/rG2X8Bgaw==
 
 opentracing@^0.14.7:
   version "0.14.7"
