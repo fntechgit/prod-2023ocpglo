@@ -1949,10 +1949,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.0.11":
-  version "2.0.11"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.11.tgz#ed01984df5ab4205efa0a736db079b3d3f1ab2c2"
-  integrity sha512-w/Jz75J0RYCLazuV/EW1AoE8XrnOhTEO6T0lOrwK04ZT72oObclWkGlr3Wm02nPH+DmtH2nejfDgjr9zNgzPNg==
+"@openeventkit/event-site@2.0.12":
+  version "2.0.12"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.12.tgz#484769276d37691d6c4250c6ce50f7836b045f1b"
+  integrity sha512-pMVnAiDb3bde70R2UBfN6TkLdnFY0f8Av/tf1fph3QxHRvntp8u+IIScBhFgqmkwBhBgr5QtUKPbjkqV5Jcgxw==
   dependencies:
     "@mui/base" "^5.0.0-alpha.114"
     "@ncwidgets/file-relation" "^0.8.0"
