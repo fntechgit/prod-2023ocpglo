@@ -1949,10 +1949,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.0.21":
-  version "2.0.21"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.21.tgz#b9dc2ebe8cc8da79bb289da4dcb84ac48fa63804"
-  integrity sha512-vNNG+Uv3mzgap/fdLP0SQLqXbAOCQHrPer6bo/oA6S1iDrIeAw30f8I7K5yh2Z+PrwfRVPMmQdSbFSnlUKjs1g==
+"@openeventkit/event-site@2.0.22":
+  version "2.0.22"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.22.tgz#67ff9ecf6c32e96560cc41e81ceb332df66798d6"
+  integrity sha512-sHgFt1AHv1A8yMa20sIdxdBxKoeJW7JPnjzeCT0DJ6jPE/eNQhBzMOIkETd9MrDoguUF47Eflo/HHgiwRhwxbA==
   dependencies:
     "@mui/base" "^5.0.0-alpha.114"
     "@ncwidgets/file-relation" "^0.8.0"
@@ -2063,7 +2063,7 @@
     slick-carousel "^1.8.1"
     smoothscroll-polyfill "^0.4.4"
     socket.io-client "^4.5.2"
-    speakers-widget "3.0.2"
+    speakers-widget "4.0.0"
     stream-browserify "^3.0.0"
     stream-chat "^2.7.2"
     stream-chat-react "3.1.7"
@@ -15731,10 +15731,10 @@ space-separated-tokens@^1.0.0, space-separated-tokens@^1.1.0:
   resolved "https://registry.yarnpkg.com/space-separated-tokens/-/space-separated-tokens-1.1.5.tgz#85f32c3d10d9682007e917414ddc5c26d1aa6899"
   integrity sha512-q/JSVd1Lptzhf5bkYm4ob4iWPjx0KiRe3sRFBNrVqbJkFaBm5vbbowy1mymoPNLRa52+oadOhJ+K49wsSeSjTA==
 
-speakers-widget@3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/speakers-widget/-/speakers-widget-3.0.2.tgz#64ba8aa163aa2f35c226cc57f6c8031acf62bef0"
-  integrity sha512-Sg8S7RJJGbx/s6FigedJHhJupSUk21cf4Cgr6laA0g7dmigqmmvd51MxxgI4oosS6t2HuSy6wzmGPZ2GVSxk/A==
+speakers-widget@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/speakers-widget/-/speakers-widget-4.0.0.tgz#50437cdfd1c96078b69143f365cbb2c833bf074f"
+  integrity sha512-HappNt725Lu4UzkpteKj0ikrj1pHcCEgNJ6lOJD05oOoKGsCxKYPNWw6wnCLDOqJ/YRHJZlkF/iz1mYcpDQOaw==
 
 split-on-first@^1.0.0:
   version "1.1.0"
