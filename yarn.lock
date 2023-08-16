@@ -1949,10 +1949,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.0.26":
-  version "2.0.26"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.26.tgz#c58d68174228d38b48472f19cee928e46827388a"
-  integrity sha512-lIKeZjc/gGZDzPmuREVSh3Z23rafrAZa+a14xmP57rOq830qJ2i/wqUx2NuEYabt0+3XWQ6e/w9xRcQO1JG0AA==
+"@openeventkit/event-site@2.0.28":
+  version "2.0.28"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.28.tgz#2410b2275e7441f30a2d7a96850e2479b675b8a9"
+  integrity sha512-zXGJK9GUDFYjTw8hUvUzF+Jj9g1A3UUtMkY67fJtovi5AibkEg4VwRsPx62IVMVTeMKk0RiwQ0HiMUhveSl2Lg==
   dependencies:
     "@mui/base" "^5.0.0-alpha.114"
     "@ncwidgets/file-relation" "^0.8.0"
@@ -1992,7 +1992,7 @@
     font-awesome "^4.7.0"
     formik "^2.2.9"
     fs-extra "^9.0.1"
-    full-schedule-widget "3.0.0"
+    full-schedule-widget "3.0.1"
     gatsby "^5.8.1"
     gatsby-alias-imports "^1.0.6"
     gatsby-plugin-image "^3.8.0"
@@ -2025,7 +2025,7 @@
     netlify-cms-app "^2.15.72"
     netlify-cms-lib-widgets "^1.8.0"
     node-sass-utils "^1.1.3"
-    openstack-uicore-foundation "^4.1.41"
+    openstack-uicore-foundation "4.1.42"
     path-browserify "^1.0.1"
     prop-types "^15.6.0"
     react "^18.2.0"
@@ -2057,7 +2057,7 @@
     redux-thunk "^2.4.1"
     sanitize-html "^2.7.0"
     sass "^1.49.9"
-    schedule-filter-widget "3.0.0"
+    schedule-filter-widget "3.0.1"
     simple-chat-widget "^1.0.31"
     simple-oauth2 "^4.1.0"
     slick-carousel "^1.8.1"
@@ -2067,7 +2067,7 @@
     stream-browserify "^3.0.0"
     stream-chat "^2.7.2"
     stream-chat-react "3.1.7"
-    summit-registration-lite "5.0.2"
+    summit-registration-lite "5.0.3"
     superagent "8.0.9"
     sweetalert2 "^9.17.0"
     upcoming-events-widget "3.0.1"
@@ -7693,10 +7693,10 @@ fsevents@~2.3.2:
   resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
   integrity sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==
 
-full-schedule-widget@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-3.0.0.tgz#5f814c2f51aa0a60e01e0f51a9899f4963f49b04"
-  integrity sha512-EVBf5wacQl5n6KqZqLojLbcfDfRWtP4MSmudvd+hJj8BUcrSJHpc1o3r/7ja6Fl47j/VS3w1/Kdju6C1sSFX8Q==
+full-schedule-widget@3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-3.0.1.tgz#eb7883449174ae370ca142a96fc71b7f22844502"
+  integrity sha512-dEGHdg/noifN0TZZY8zECPUqT+xEs4D2OxAlIxqljT/EBlWRXgMTPlqbIqvrkmxpiLiLPNGGsJPNgfxgm+npoA==
   dependencies:
     "@mui/base" "5.0.0-alpha.127"
     "@react-pdf/renderer" "^3.1.11"
@@ -12313,10 +12313,10 @@ open@^8.4.0:
     is-docker "^2.1.1"
     is-wsl "^2.2.0"
 
-openstack-uicore-foundation@^4.1.41:
-  version "4.1.41"
-  resolved "https://registry.yarnpkg.com/openstack-uicore-foundation/-/openstack-uicore-foundation-4.1.41.tgz#bdf2a1bbe14808072dfa91a1f42d446270e41506"
-  integrity sha512-FJzEeeVacBZPghvuirDczzwdZ8p2bPcSTZywKgIcpXVH+4ukRVhWRsEfPPqGOZ8CpoJle+sOGCowPfd0SRPuFQ==
+openstack-uicore-foundation@4.1.42:
+  version "4.1.42"
+  resolved "https://registry.yarnpkg.com/openstack-uicore-foundation/-/openstack-uicore-foundation-4.1.42.tgz#c0ecd0f0f06905e62504685bcdfdafbbf2a7f621"
+  integrity sha512-rLbHmwFXcjllD19HPDAddw29gOvaNDlFvHxJG+Dxtx9ixfeZceWaLShK2uoAR+/mQf4W2hH292JzF1Yid5R7xw==
 
 opentracing@^0.14.7:
   version "0.14.7"
@@ -15125,11 +15125,12 @@ saxes@^5.0.1:
   dependencies:
     xmlchars "^2.2.0"
 
-schedule-filter-widget@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/schedule-filter-widget/-/schedule-filter-widget-3.0.0.tgz#b02bce8a26731487716215ae8bcbc6c0fba69f8e"
-  integrity sha512-BCcF53CXTYGpvwpHJxHZjtguqFrqDmLLxOiasgb6P4SZBVU5eI+hdsrMnozhsO4PKmsLAfKDQjzXJ29wXNRxFg==
+schedule-filter-widget@3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/schedule-filter-widget/-/schedule-filter-widget-3.0.1.tgz#6dd5dea2eb6366049c70d636dad7fe716f06ea1f"
+  integrity sha512-Pg3n8Mu/IUHQjZHrOEsDVUrLGwe0vmk9xaHxYs2LvfBdJ8z1KbvQ/Fhz27owzlzDc1D10HMJ6Oac0tsLsrYc1g==
   dependencies:
+    crypto-js "^4.1.1"
     react-spring "^9.1.2"
     react-use "^17.2.4"
     resize-observer-polyfill "^1.5.1"
@@ -16170,10 +16171,10 @@ sudo-prompt@^8.2.0:
   resolved "https://registry.yarnpkg.com/sudo-prompt/-/sudo-prompt-8.2.5.tgz#cc5ef3769a134bb94b24a631cc09628d4d53603e"
   integrity sha512-rlBo3HU/1zAJUrkY6jNxDOC9eVYliG6nS4JA8u8KAshITd07tafMc/Br7xQwCSseXwJ2iCcHCE8SNWX3q8Z+kw==
 
-summit-registration-lite@5.0.2:
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-5.0.2.tgz#bf63b11121dde106872e5396a83f358c603cb39e"
-  integrity sha512-6hTAq7gC4YmGrkli6+TCzjpsVaq7/7LQ71Ci187/pG/GOxJp6OHG5gXxj+JVTyhs4C77X5OQTOVgV3Ez+HnQKg==
+summit-registration-lite@5.0.3:
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-5.0.3.tgz#24a9dd9a5b02eb76cdc15834ae557fe176ec1a2b"
+  integrity sha512-J0Kq2mTZMgROLiI0Y9sPdTZZB6jnKN9aJonVW2zCWGJvQ0KRNKbjEDPcknQ3H7CnZTqS4mB1lKaOgm/I081eEQ==
   dependencies:
     "@stripe/react-stripe-js" "^1.4.1"
     "@stripe/stripe-js" "^1.15.0"
