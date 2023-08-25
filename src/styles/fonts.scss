@@ -1,0 +1,33 @@
+/ Adding these new fonts for this theme
+@font-face {
+  font-family: 'FranklinGothic';
+  src: url("../../static/fonts/FranklinGothicURW-Boo.woff");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'FranklinGothic';
+  font-weight: bold;
+  src: url("../../static/fonts/FranklinGothicURW-Med.woff");
+}
+
+%font-regular {
+  font-family: 'FranklinGothic';
+  font-weight: 400;
+}
+
+%font-semi {
+  font-family: 'FranklinGothic';
+  font-weight: 600;
+}
+
+%font-bold {
+  font-family: 'FranklinGothic';
+  font-weight: 700;
+}
+
+$font-family: 'FranklinGothic';
+
+:root {
+  --font_family: #{$font-family} !important;
+}

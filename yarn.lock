@@ -1949,10 +1949,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.0.28":
-  version "2.0.28"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.28.tgz#2410b2275e7441f30a2d7a96850e2479b675b8a9"
-  integrity sha512-zXGJK9GUDFYjTw8hUvUzF+Jj9g1A3UUtMkY67fJtovi5AibkEg4VwRsPx62IVMVTeMKk0RiwQ0HiMUhveSl2Lg==
+"@openeventkit/event-site@2.0.49":
+  version "2.0.49"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.49.tgz#ec6e843a03b88a845d0bf7d2f0cdd4b420b11df5"
+  integrity sha512-OvqBYUSXoXH43odrUalJil6oId+06khVBic2F+DU6yzvMqtuECeGB5ozrA2mip3KpKffdDWzdIi1OJOMjTstPQ==
   dependencies:
     "@mui/base" "^5.0.0-alpha.114"
     "@ncwidgets/file-relation" "^0.8.0"
@@ -1971,7 +1971,7 @@
     "@types/react" "^16.9.42"
     "@vimeo/player" "^2.16.3"
     ably "^1.2.34"
-    attendee-to-attendee-widget "3.0.3"
+    attendee-to-attendee-widget "3.0.5"
     awesome-bootstrap-checkbox "^1.0.1"
     axios "^0.19.2"
     babel-preset-gatsby "^3.9.0"
@@ -1992,7 +1992,7 @@
     font-awesome "^4.7.0"
     formik "^2.2.9"
     fs-extra "^9.0.1"
-    full-schedule-widget "3.0.1"
+    full-schedule-widget "3.0.2"
     gatsby "^5.8.1"
     gatsby-alias-imports "^1.0.6"
     gatsby-plugin-image "^3.8.0"
@@ -2015,8 +2015,8 @@
     immutability-helper "2.9.1"
     immutable "^3.7.6"
     jsdom "^16.2.2"
-    lite-schedule-widget "3.0.1"
-    live-event-widget "4.0.0"
+    lite-schedule-widget "3.0.2"
+    live-event-widget "4.0.1"
     lodash "^4.17.19"
     lz-string "^1.4.4"
     markdown-it "^12.0.0"
@@ -2067,10 +2067,10 @@
     stream-browserify "^3.0.0"
     stream-chat "^2.7.2"
     stream-chat-react "3.1.7"
-    summit-registration-lite "5.0.3"
+    summit-registration-lite "5.0.6"
     superagent "8.0.9"
     sweetalert2 "^9.17.0"
-    upcoming-events-widget "3.0.1"
+    upcoming-events-widget "3.0.4"
     urijs "^1.19.2"
     use-fit-text "^2.4.0"
     uuid "^7.0.0"
@@ -4312,10 +4312,10 @@ atob@^2.1.2:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-attendee-to-attendee-widget@3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/attendee-to-attendee-widget/-/attendee-to-attendee-widget-3.0.3.tgz#d42a28d3d352ee09bddee8f71fc2a0425dfeb5cc"
-  integrity sha512-2UJiQ1OKT9U/6gNgbq7GEQQfwjxIRG0N7Fx8sPSiHzfTjV4kbZgPo81wMZ3RsaV+deWIFKHFtrDsNroGeh/IqA==
+attendee-to-attendee-widget@3.0.5:
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/attendee-to-attendee-widget/-/attendee-to-attendee-widget-3.0.5.tgz#2aa928d6c521df98f321ffef5842079522ce0387"
+  integrity sha512-UJYajshGxcsjz12ABxQrb/KOBXmZbCjY+rFMUVbEXwOb4ZLWhJ/EqTjavC45OS0BxKYtUlLIi2KhyvPGhtU72g==
   dependencies:
     "@babel/helper-string-parser" "^7.19.4"
     "@supabase/supabase-js" "^1.35.6"
@@ -7693,10 +7693,10 @@ fsevents@~2.3.2:
   resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
   integrity sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==
 
-full-schedule-widget@3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-3.0.1.tgz#eb7883449174ae370ca142a96fc71b7f22844502"
-  integrity sha512-dEGHdg/noifN0TZZY8zECPUqT+xEs4D2OxAlIxqljT/EBlWRXgMTPlqbIqvrkmxpiLiLPNGGsJPNgfxgm+npoA==
+full-schedule-widget@3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-3.0.2.tgz#f0308590da418fc162553562df2f3f32a77ff12c"
+  integrity sha512-x2/aSYl4kTgDH6ygjSFTEgsdDIiZM4dYsOuGud586kaboLGeCvo3Uag/Blpey+XZ+hPswbOI/tbg9F75Q4Y7Wg==
   dependencies:
     "@mui/base" "5.0.0-alpha.127"
     "@react-pdf/renderer" "^3.1.11"
@@ -10545,18 +10545,18 @@ linkifyjs@^2.1.9:
   resolved "https://registry.yarnpkg.com/linkifyjs/-/linkifyjs-2.1.9.tgz#af06e45a2866ff06c4766582590d098a4d584702"
   integrity sha512-74ivurkK6WHvHFozVaGtQWV38FzBwSTGNmJolEgFp7QgR2bl6ArUWlvT4GcHKbPe1z3nWYi+VUdDZk16zDOVug==
 
-lite-schedule-widget@3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/lite-schedule-widget/-/lite-schedule-widget-3.0.1.tgz#b3cb583d62fc00e253d87b432e767cf68348fb84"
-  integrity sha512-JjpE5c84lVrwJ91myz4Go0JxyVTOpkte5Un7t/qIAX5oZ3ONoSg6HTIp+HSnQ5+pbyxElYCogOPlrcHyDHUDLQ==
+lite-schedule-widget@3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/lite-schedule-widget/-/lite-schedule-widget-3.0.2.tgz#9a015815589c88a1b8ed998fc826bbca10532db0"
+  integrity sha512-ZGuoPBEpeZFqZ1VoHNfC+PKxbYPR5o7t8CeK0FOw3locJMQ2YzigazInaOwgQoy2b95A8+h7J7uWFbCGscGorg==
   dependencies:
     pure-react-carousel "^1.27.4"
     use-fit-text "^2.4.0"
 
-live-event-widget@4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/live-event-widget/-/live-event-widget-4.0.0.tgz#c89909273bd0ae176aa705cc10211b8803dc87df"
-  integrity sha512-0nR3b2KJmozgSy1SYAb05VTMAJwkHerxKReATB3GHOSAXXWGMH8t+ymbWZ3SYXz/SfcpSJR5Y1llSG/KX2lKpw==
+live-event-widget@4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/live-event-widget/-/live-event-widget-4.0.1.tgz#ea654d287446ae54d839dec4d3f7d8f157ec062c"
+  integrity sha512-Fm0Ovi+1NtSfkeH10sG3QJYOtK+PqOtf4wKUT5PX1CFBa28/LXv1JkVUuUjG4cVdBZLneoBQs20dGoKAhWr+xQ==
   dependencies:
     svg-url-loader "^7.1.1"
 
@@ -16171,10 +16171,10 @@ sudo-prompt@^8.2.0:
   resolved "https://registry.yarnpkg.com/sudo-prompt/-/sudo-prompt-8.2.5.tgz#cc5ef3769a134bb94b24a631cc09628d4d53603e"
   integrity sha512-rlBo3HU/1zAJUrkY6jNxDOC9eVYliG6nS4JA8u8KAshITd07tafMc/Br7xQwCSseXwJ2iCcHCE8SNWX3q8Z+kw==
 
-summit-registration-lite@5.0.3:
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-5.0.3.tgz#24a9dd9a5b02eb76cdc15834ae557fe176ec1a2b"
-  integrity sha512-J0Kq2mTZMgROLiI0Y9sPdTZZB6jnKN9aJonVW2zCWGJvQ0KRNKbjEDPcknQ3H7CnZTqS4mB1lKaOgm/I081eEQ==
+summit-registration-lite@5.0.6:
+  version "5.0.6"
+  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-5.0.6.tgz#7536830b0fac6ce74b9fb08cf3e0e73026b22e5b"
+  integrity sha512-yC+4LTMXh5HzvUEVDwvbAHXlpmQNqPyKzhlbEtCoRdgqpXxfGO3LN79pgk8oXrrrCynRuMXRkeybAn9apDqlyA==
   dependencies:
     "@stripe/react-stripe-js" "^1.4.1"
     "@stripe/stripe-js" "^1.15.0"
@@ -17033,10 +17033,10 @@ unpipe@1.0.0, unpipe@~1.0.0:
   resolved "https://registry.yarnpkg.com/unpipe/-/unpipe-1.0.0.tgz#b2bf4ee8514aae6165b4817829d21b2ef49904ec"
   integrity sha512-pjy2bYhSsufwWlKwPc+l3cN7+wuJlK6uz0YdJEOlQDbl6jo/YlPi4mb8agUkVC8BF7V8NuzeyPNqRksA3hztKQ==
 
-upcoming-events-widget@3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/upcoming-events-widget/-/upcoming-events-widget-3.0.1.tgz#d8d27ab40c619de1d2e949038273554dfcdbeb79"
-  integrity sha512-9RJVwRMOK7OXdvi/4qHZddKXKDpuNVw5EGiySfqJnkSXEFUMrRvXWkndlLli3b2puW5K2lzyfncdggGjsFw0nw==
+upcoming-events-widget@3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/upcoming-events-widget/-/upcoming-events-widget-3.0.4.tgz#ec70f29dcc88fbb1114d66fd3c09e425061a18ce"
+  integrity sha512-e9yi+gcV4LYKrTZb6Cv5OLkf7JzkLFgX/yTjqJoh4jdY0tlXHc1H7/LbJkiD/87MwpyRM/OKUD1fNKsBpIxOww==
   dependencies:
     pure-react-carousel "^1.30.1"
 
