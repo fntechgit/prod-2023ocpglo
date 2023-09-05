@@ -1949,10 +1949,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@^1.0.48":
-  version "1.0.48"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-1.0.48.tgz#600e3365936f817a229700bff731fbe5e922c646"
-  integrity sha512-2KeiblwfIG8y2cv3tAUs9uIEQhMRmAjqJf1+T2XuJxxQPfepUJxm8v01gWNYkNCCiT0UkMwIEn10o2i5/WRshg==
+"@openeventkit/event-site@^1.0.51":
+  version "1.0.51"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-1.0.51.tgz#b44f41e0464fa6100af5b75f0e705a46413dffb5"
+  integrity sha512-cUDbXo0YJAwZ3m+ibbIQCf6c3EmrehT2l7+mzNYwGEcyY4x+pN+9oHhHV1ICnMmElVKapxuIvlfG5rbU20Q5Qg==
   dependencies:
     "@mui/base" "^5.0.0-alpha.114"
     "@ncwidgets/file-relation" "^0.8.0"
@@ -1992,7 +1992,7 @@
     font-awesome "^4.7.0"
     formik "^2.2.9"
     fs-extra "^9.0.1"
-    full-schedule-widget "^2.0.35"
+    full-schedule-widget "^2.0.36"
     gatsby "^5.8.1"
     gatsby-alias-imports "^1.0.6"
     gatsby-plugin-image "^3.8.0"
@@ -2067,7 +2067,7 @@
     stream-browserify "^3.0.0"
     stream-chat "^2.7.2"
     stream-chat-react "3.1.7"
-    summit-registration-lite "^4.0.18"
+    summit-registration-lite "4.0.21"
     superagent "8.0.9"
     sweetalert2 "^9.17.0"
     upcoming-events-widget "2.0.8"
@@ -7694,10 +7694,10 @@ fsevents@~2.3.2:
   resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
   integrity sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==
 
-full-schedule-widget@^2.0.35:
-  version "2.0.35"
-  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-2.0.35.tgz#3e7475d467ca76e77a995508e638fa80d5609046"
-  integrity sha512-NLQYjcV5s8F+64tvWW+dO1DN6TAWZf2ar1PwJJ1d3eOOv8WfJmJIHktTTN3st4NFuCXxdV/PVlqG3cYjnR0S6Q==
+full-schedule-widget@^2.0.36:
+  version "2.0.36"
+  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-2.0.36.tgz#17efeb13ca48d84bdc3cd460f9a4a78b64dfc597"
+  integrity sha512-9hfjWAInWsuxD2eFe/ihevcsHdj6PGiw8Hnlwb81vjTIb7vrmEa6Nd4rkGoKjIcc5h0aFnGRkWN2u29/zyUf7w==
   dependencies:
     "@mui/base" "5.0.0-alpha.127"
     "@react-pdf/renderer" "^3.1.11"
@@ -16171,10 +16171,10 @@ sudo-prompt@^8.2.0:
   resolved "https://registry.yarnpkg.com/sudo-prompt/-/sudo-prompt-8.2.5.tgz#cc5ef3769a134bb94b24a631cc09628d4d53603e"
   integrity sha512-rlBo3HU/1zAJUrkY6jNxDOC9eVYliG6nS4JA8u8KAshITd07tafMc/Br7xQwCSseXwJ2iCcHCE8SNWX3q8Z+kw==
 
-summit-registration-lite@^4.0.18:
-  version "4.0.19"
-  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-4.0.19.tgz#4676b4cb742e952d4adc69fa0a55f55335d1aa74"
-  integrity sha512-da60rjohMPa5aIkJLY5O5+SAPDu6Z+pu/EakOn0SGcMnZCPJGu9lGMHzBe42BvVX1IW6tNg7Jt2XWWu3CzP28A==
+summit-registration-lite@4.0.21:
+  version "4.0.21"
+  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-4.0.21.tgz#389c7fdaf60a5aa83c17a2ccea28b0eaa1afe5ce"
+  integrity sha512-b8bwE9xDZ7KhQL1Kz90T2tatvHXk0+e0rQW3jSDgELWTvnG+2IdjsszZEDQcFaPbuCA8ycVK0idLw1e4N5rgOw==
   dependencies:
     "@react-pdf/renderer" "^3.1.12"
     "@stripe/react-stripe-js" "^1.4.1"
