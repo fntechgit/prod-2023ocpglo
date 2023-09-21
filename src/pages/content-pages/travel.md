@@ -18,7 +18,7 @@ OCP has room blocks at the following hotels offering our attendees a discounted 
 
 <s>**[Marriott](https://book.passkey.com/gt/219026705?gtid=cbebe39369b0f8ffde074c9fdf6149)** - $329 per night</s>  SOLD OUT!
 
-**[Hilton](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-238c8b12-656c-4133-91b1-c7a0e5cf681d/)** - $345 per night 
+<s>**[Hilton](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-238c8b12-656c-4133-91b1-c7a0e5cf681d/)** - $345 per night</s>  SOLD OUT!
 
 **[Signia by Hilton](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=SJCSMSA&arrivalDate=2023-10-15&departureDate=2023-10-20&groupCode=OCP23&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink)** - $345 per night 
 
