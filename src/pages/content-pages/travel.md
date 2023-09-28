@@ -16,15 +16,15 @@ Looking for things to do in San Jose? Visit their [travel page](https://www.san
 
 OCP has room blocks at the following hotels offering our attendees a discounted rate. Please see below for rates and reservation links. Rooms are available until reservation deadline of **September 22** or until the room blocks sell out, whichever occurs first. 
 
-<s>**[Marriott](https://book.passkey.com/gt/219026705?gtid=cbebe39369b0f8ffde074c9fdf6149)** - $329 per night</s>  SOLD OUT!
+<s>**[Marriott](https://www.marriott.com/en-us/hotels/sjcsj-san-jose-marriott/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)** - $329 per night</s>  SOLD OUT!
 
-<s>**[Hilton](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-238c8b12-656c-4133-91b1-c7a0e5cf681d/)** - $345 per night</s>  SOLD OUT!
+<s>**[Hilton](https://www.hilton.com/en/hotels/sjcshhf-hilton-san-jose/?SEO_id=GMB-AMER-HH-SJCSHHF&y_source=1_MTIyMDg2MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==)** - $345 per night</s>  SOLD OUT!
 
-**[Signia by Hilton](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=SJCSMSA&arrivalDate=2023-10-15&departureDate=2023-10-20&groupCode=OCP23&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink)** - $345 per night 
+**[Signia by Hilton](https://www.hilton.com/en/hotels/sjcsmsa-signia-san-jose/?SEO_id=GMB-AMER-SA-SJCSMSA&y_source=1_MjkxMDY1OTktNzE1LWxvY2F0aW9uLndlYnNpdGU=)** - $345 per night 
 
-**[Hyatt Place](https://www.hyatt.com/en-US/group-booking/SJCZJ/G-FNTC)** - $289 per night
+**[Hyatt Place](https://www.hyatt.com/en-US/hotel/california/hyatt-place-san-jose-downtown/sjczj?src=corp_lclb_gmb_seo_sjczj#quickbook)** - $289 per night
 
-<s>**[The Westin](https://www.marriott.com/event-reservations/reservation-link.mi?id=1689876462802&key=GRP&app=resvlink)**  - $279 per night</s>  SOLD OUT!
+<s>**[The Westin](https://www.marriott.com/en-us/hotels/sjcwi-the-westin-san-jose/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)**  - $279 per night</s>  SOLD OUT!
 
 - - -
 
