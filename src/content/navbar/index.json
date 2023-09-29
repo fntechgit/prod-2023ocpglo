@@ -44,6 +44,16 @@
       "pageRestriction": [
         "ANY"
       ],
+      "title": "MAP",
+      "link": "/map",
+      "display": true
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
       "title": "TRAVEL",
       "link": "/travel",
       "display": true
