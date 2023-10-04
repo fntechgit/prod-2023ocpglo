@@ -20,9 +20,9 @@ OCP has room blocks at the following hotels offering our attendees a discounted 
 
 <s>**[Hilton](https://www.hilton.com/en/hotels/sjcshhf-hilton-san-jose/?SEO_id=GMB-AMER-HH-SJCSHHF&y_source=1_MTIyMDg2MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==)** - $345 per night</s>  SOLD OUT!
 
-**[Signia by Hilton](https://www.hilton.com/en/hotels/sjcsmsa-signia-san-jose/?SEO_id=GMB-AMER-SA-SJCSMSA&y_source=1_MjkxMDY1OTktNzE1LWxvY2F0aW9uLndlYnNpdGU=)** - $345 per night 
+<s>**[Signia by Hilton](https://www.hilton.com/en/hotels/sjcsmsa-signia-san-jose/?SEO_id=GMB-AMER-SA-SJCSMSA&y_source=1_MjkxMDY1OTktNzE1LWxvY2F0aW9uLndlYnNpdGU=)** - $345 per night</s> SOLD OUT!
 
-**[Hyatt Place](https://www.hyatt.com/en-US/hotel/california/hyatt-place-san-jose-downtown/sjczj?src=corp_lclb_gmb_seo_sjczj#quickbook)** - $289 per night
+<s>**[Hyatt Place](https://www.hyatt.com/en-US/hotel/california/hyatt-place-san-jose-downtown/sjczj?src=corp_lclb_gmb_seo_sjczj#quickbook)** - $289 per night</s> SOLD OUT!
 
 <s>**[The Westin](https://www.marriott.com/en-us/hotels/sjcwi-the-westin-san-jose/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)**  - $279 per night</s>  SOLD OUT!
 
